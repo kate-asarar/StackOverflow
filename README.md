@@ -1,2 +1,2 @@
 # Project-1
-This repository is used to store and communicate created code for the first project of the Udacity Data Scientist Nanodegree. 
+This repository is used to share the code written for the first project in the Udacity Data Scientist nano degree.
